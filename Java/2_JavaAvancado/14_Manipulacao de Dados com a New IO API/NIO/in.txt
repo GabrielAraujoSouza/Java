@@ -1,0 +1,3 @@
+Este é um arquivo
+que deve ser 
+copiado para outro lugar

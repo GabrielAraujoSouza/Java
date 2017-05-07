@@ -1,0 +1,4 @@
+#Arquivo config2.txt
+#Mon Aug 09 21:42:18 BRT 2010
+versao=1.0
+nomeAplicacao=Um nome qualquer
